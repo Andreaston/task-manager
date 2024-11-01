@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestor de Tareas</title>
+    <script src="notificaciones.js" defer></script>
+</head>
+<body>
+    <h1>Gestor de Tareas</h1>
+    <p>Aquí puedes gestionar tus tareas y recibir notificaciones.</p>
+
+    <!-- Ejemplo de una lista de tareas -->
+    <ul id="lista-tareas">
+        <li>Tarea 1 - Vence el 1 de Noviembre</li>
+        <li>Tarea 2 - Vence el 2 de Noviembre</li>
+    </ul>
+</body>
+</html>
